@@ -1,0 +1,10 @@
+.leader {
+  background-image: url(assets/images/leader.png);
+}
+
+section {
+  min-height: 40dvh;
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 3px 10px black;
+}
